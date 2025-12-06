@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Basit Dönüştürücü: Metre-Feet, Kilogram-Pound dönüştürücüsü yapın     
 Simple Converter: Convert Meters to Feet, Kilograms to Pounds     
